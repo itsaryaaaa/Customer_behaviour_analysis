@@ -205,5 +205,5 @@ Execute notebook cells step-by-step to:
 
 # 👨‍💻 Author
 
-**Priyanshu Tiwari**  
+**Arya Raj**  
 Data Analytics & SQL Enthusiast
